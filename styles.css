@@ -87,7 +87,7 @@ h3{
   text-align: center;
 }
 p{
-
+  font-family: 'Open Sans', sans-serif;
 }
 #logo {
   /* ------ Max width to keep logo image from being larger than intended ------ */
